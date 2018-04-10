@@ -1,1 +1,2 @@
-server:78979
+server:
+  port: 8764
